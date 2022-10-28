@@ -1,0 +1,70 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+/*Aligns all text to center*/
+*{
+  text-align: center;
+}
+
+li{
+  text-align: center;
+}
+/*Changes Page titles*/
+.ptitle{
+  font-weight: bold;
+  text-align: center;
+  font-size: 50px;
+}
+/*sets page backgound color*/
+.about{
+  background-color: rgb(166, 0, 255);
+}
+/*changes link color when hovered vs not*/
+.link:hover{
+  color: rgb(255, 0, 149);
+  text-align: center;
+}
+
+.link{
+  color: rgb(0, 179, 255);
+}
+/*next three are page backgound colors*/
+.book{
+  background-color: rgb(238, 0, 255);
+}
+
+.listicle{
+  background-color: rgb(120, 0, 255);
+}
+
+.robits{
+  background-color: rgb(0, 0, 255);
+}
+/*The rest all change picture sizes*/
+.factorpic{
+  height: 300px;
+  width: 650px;
+}
+
+.listiclepic{
+  height: 300px;
+  width: 400px;
+}
+
+.trophies{
+  height: 300px;
+  width: 400px;
+}
+.opus{
+  height: 300px;
+  width: 400px;
+}
+.cheezit{
+  height: 300px;
+  width: 400px;
+}
+
+table{
+  text-align: center;
+}
